@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<ul class="list">
+  {% for post in site.posts %}
+    <li class="list-item">
+      <a href="{{ post.url | prepend:site.github.url }}">
+        <div class="list-item-ep-summary">
+          <span class="list-item-ep-pub-date">
+            {{ post.date | date: "%Y年%m月%d日" }}
+          </span>
+          <p class="list-item-ep-summary-title">
+            {{ post.title | escape }}
+          </p>
+          <div class="list-item-ep-summary-content">
+            {{ post.description }}
+          </div>
+        </div>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

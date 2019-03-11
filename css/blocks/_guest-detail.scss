@@ -1,0 +1,54 @@
+.guest-detail {
+  background-color: #FAF3DD;
+  padding: 27px 27px 27px 27px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 0.5px solid #eeeeee;
+  box-shadow: 2px 2px 1px 1px #eeeeee;
+
+  &-image {
+    flex: 1;
+  }
+
+  &-description {
+    flex: 2;
+    
+    >h1 {
+      color: #283044;
+      font-size: .24rem;
+      margin: 15px 15px 15px 15px;
+      border-bottom: medium solid #bbbbbb;
+    }
+  }
+     
+  &-twitter-icon {
+    border-radius: 50%;
+    width:  15em;
+    height: 15em;
+  }
+
+  &-tweet-button {
+    color: #ffffff;
+    font-size: .12rem;
+    text-decoration: none;
+    background-color: #1b95e0;
+    padding: 1px 6px 1px 6px;
+    margin: 0 20px;
+    border-radius: 3px;
+  }
+
+  &-episode-title {
+    font-size: .16rem;
+    margin: 5px 20px;
+    padding: 5px 5px 10px;
+    cursor: pointer;
+    line-height: .24rem;
+  }
+  
+  &-episode-title:hover {
+    color: #bbbbbb;
+  }  
+}

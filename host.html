@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+{% for host in site.hosts %}
+<div class="host">
+  <div class="host-image">
+    <img class="host-twitter-icon" src="../../images/hosts/{{ host.twitter-icon }}"/>
+  </div>
+  <div class="host-description">
+    <h1>{{ host.name }}</h1>
+    <p class="host-description-item"><i class="fa fa-building" aria-hidden="true"></i>
+      Software Developer @
+      <a class="host-link" href="{{ host.company-link }}">{{ host.company }}</a>
+    </p>
+    <p class="host-description-item"><i class="fa fa-book" aria-hidden="true"></i>
+      Graduated from: {{ host.graduated-from }}
+    </p>
+    <p class="host-description-item"><i class="fa fa-twitter" aria-hidden="true"></i>
+      Twitter:
+      <a class="host-link" href="https://twitter.com/{{ host.twitter-name }}">@{{ host.twitter-name }}</a>
+    <p>
+    <p class="host-description-item"><i class="fa fa-pencil-square" aria-hidden="true"></i>
+      Blog:
+      <a class="host-link" href="{{ host.blog-link }}">{{ host.blog-name }}</a>
+    </p>
+    <p class="host-description-item"><i class="fa fa-id-card-o" aria-hidden="true"></i>
+      Skills
+    </p>
+    <ul class="host-tag-cloud">
+      {% for skill in host.skill-tag-cloud %}
+        <li><span>{{ skill }}</span></li>
+      {% endfor %}
+    </ul>
+    <p class="host-description-item">
+      <i class="fa fa-info-circle" aria-hidden="true"></i>
+      Interest
+    </p>
+    <ul class="host-tag-cloud">
+        {% for hobby in host.hobby-tag-cloud %}
+        <li><span>{{ hobby }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endfor %}

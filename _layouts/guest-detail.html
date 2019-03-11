@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang={{ site.language }}>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="container">
+      <div class="container-wrapper">
+        <div class="container-main">
+          <div class="guest-detail">
+            <div class="guest-detail-image">
+              <img class="guest-detail-twitter-icon" src="../images/guests/{{ page.img }}"/>
+            </div>
+            <div class="guest-detail-description">
+              <h1>{{ page.name }}</h1>
+              <div class="guest-detail-tweet">
+                <a class="guest-detail-tweet-button" target="_blank" href="{{ page.url }}">
+                  <i class="fa fa-twitter" aria-hidden="true"></i>
+                  @{{ page.name }}
+                </a>
+              </div>
+              <ul class="guest-detail-episodes">
+                {% for episode in page.episodes %}
+                <li class="guest-detail-episode-title">
+                  <a href="/ep/{{ episode }}"></a><span>{{ episode }}</span>
+                </li>
+                {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="container-sidebar-wrapper">
+          <div class="container-sidebar-content">
+            <div id="form" class="container-sidebar-item">
+              {% include form.html %}
+            </div>
+            <div class="container-sidebar-item">
+              <!-- ここにTwitterのタイムライン入れたい -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    {% include footer.html %}
+  </body>
+</html>

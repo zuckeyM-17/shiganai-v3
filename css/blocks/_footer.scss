@@ -1,0 +1,64 @@
+.footer {
+  background-color: #222222;
+
+  &-each {
+    padding: 30px 30px 30px 30px;
+    color: #dddddd;
+  }
+
+  &-copyright {
+    padding: 0 30px 30px 30px;
+    font-size: 10px;
+    text-align: right;
+    color: #dddddd;
+  }
+
+  &-title {
+    margin: 0 0 15px 0;
+    font-size: .16rem;
+  }
+
+  &-description {
+    font-size: .12rem;
+    line-height: .16rem;
+  }
+
+  &-description-list {
+    padding: 0 0 0 20px;
+    list-style-type: circle;
+  }
+
+  &-description-item {
+    font-size: .12rem;
+    line-height: .32rem;
+  }
+
+  &-link {
+    text-decoration: none;
+    color: #dddddd;
+    cursor: pointer;
+    
+    &:hover {
+      color: #999999;
+    }
+  }
+
+  &-follow {
+    margin: 15px 0 0 0;
+  }
+
+  &-twitter-follow-button {
+    color: #dddddd;
+    font-size: .12rem;
+    text-decoration: none;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .footer-container {
+    display: flex;
+  }
+  .footer-each {
+    flex: 1;
+  }
+}

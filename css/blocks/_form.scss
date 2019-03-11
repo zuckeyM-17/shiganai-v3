@@ -1,0 +1,60 @@
+.form {
+  margin: 0;
+  padding: 15px 15px 15px 15px;
+  border: 0.5px solid #eeeeee;
+  box-shadow: 2px 2px 1px 1px #eeeeee;
+  font-size: .12rem;
+  background-color: #fdfdfd;
+  max-width: 500px;
+  border-radius: 10px;
+
+  &-title {
+    font-size: .20rem;
+    margin: 10px 0 10px 0;
+  }
+  
+  &-at_mark {
+    width: 20px;
+  }
+
+  &-label {
+    margin: 0 0 5px 0;
+  }
+
+  &-tw-account-input {
+    width: 200px;
+  }
+
+  &-feedback {
+    margin: 5px 5px 5px 5px;
+  }
+
+  &-feedback-text {
+    width: 100%;
+  }
+
+  &-button-container {
+    text-align:center;
+  }
+
+  &-submit {
+    width: 100px;
+    padding: 5px 5px 5px 5px;
+    background-color: #e58a31;
+    color: #ffffff;
+    font-size: .16rem;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 1px 1px 5px 1px #cccccc;
+
+    :hover {
+      background-color: #e6974c;
+    }
+    
+    :active {
+      background-color: #c4742a;
+      box-shadow: none;
+    }
+  }
+}

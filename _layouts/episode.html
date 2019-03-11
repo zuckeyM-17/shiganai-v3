@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang={{ site.language }}>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <div class="container">
+      <div class="container-wrapper">
+        <div class="container-main">
+          <article class="ep-detail">
+            <div class="ep-detail-container">
+              <span class="ep-detail-pub-date">{{ page.date | date: "%Y年%m月%d日" }}</span>
+              <h1 class="ep-detail-title">{{ page.title }}</h1>
+              <p>
+                <audio
+                  class="mejs_player"
+                  controls=""
+                  data-mejsoptions='{"alwaysShowControls": true, "alwaysShowHours": true, "enableAutosize": true, "features": ["playpause", "progress", "current", "duration", "volume", "speed"]}'
+                  preload="auto"
+                  src="{{ page.audio_file_path }}"
+                  width="100%"
+                >
+                </audio>
+              </p>
+              <div class="tweet">
+                <button class="tw-button"><i></i>Tweet #しがないラジオ</button>
+              </div>
+              <div class="markdown">{{ content }}</div>
+            </div>
+          </article>
+        </div>
+        <div class="container-sidebar-wrapper">
+          <div class="container-sidebar-content">
+            <div id="form" class="container-sidebar-item">
+              {% include form.html %}
+            </div>
+            <div class="container-sidebar-item">
+              <!-- ここにTwitterのタイムライン入れたい -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,23 @@
+plugins: [jekyll-paginate]
+description: SIerのSEからWEB系エンジニアに転職したんだが楽しくて仕方がないラジオ
+email: shiganai.radio@gmail.com
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+  - scripts
+hashtag: しがないラジオ
+language: ja
+markdown: kramdown
+sass:
+  sass_dir: css
+timezone: Asia/Tokyo
+title: しがないラジオ
+url: https://shiganai.org
+permalink: /ep/:title
+collections:
+  hosts:
+    permalink: /host
+  guests:
+    permalink: /guest/:title

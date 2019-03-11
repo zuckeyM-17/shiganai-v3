@@ -1,0 +1,65 @@
+.guest-list {
+  display: flex;
+  margin: 1em;
+  -webkit-flex-wrap: wrap; /* Safari */
+  flex-wrap: wrap;
+
+  &-item {
+    display: block;
+    padding: 0.5em;
+    margin: 0.3em;
+    border-radius: 1em;
+    background-color: #FAF3DD;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    transition: opacity 0.5s;
+    border: 0.5px solid #eeeeee;
+    box-shadow: 2px 2px 1px 1px #eeeeee;
+    width: 10em;
+
+    &-twitter-icon {
+      border-radius: 50%;
+      width:  5em;
+      height: 5em;
+      
+    }
+
+    &-image {
+      flex: 2;
+    }
+
+    &-link:hover &-image {
+      opacity: 0.7;
+    }
+    &-link:hover &-name>span{
+      color: #bbbbbb;
+    }
+
+    &-name {
+      flex: 1;
+      margin: auto;
+      
+      >span {
+        color: #283044;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 880px) {
+  .guest-list {
+    margin: 3em;
+
+    &-list-item {
+      &-twitter-icon {
+        width:  7em;
+        height: 7em;
+      }
+      &-link {
+          padding: 1em;
+          margin: 0.7em;
+      }
+    }
+  }
+}
