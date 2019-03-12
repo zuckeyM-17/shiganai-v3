@@ -1,8 +1,6 @@
 encding: utf-8
-plugins: 
-  - jekyll-github-metadata
+plugins:
   - jekyll-paginate
-github : [metadata]
 repository: zuckeyM-17/shiganai-v3
 description: SIerのSEからWEB系エンジニアに転職したんだが楽しくて仕方がないラジオ
 email: shiganai.radio@gmail.com
