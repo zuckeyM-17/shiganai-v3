@@ -5,7 +5,7 @@ layout: default
 {% for host in site.hosts %}
 <div class="host">
   <div class="host-image">
-    <img class="host-twitter-icon" src="../../images/hosts/{{ host.twitter-icon }}"/>
+    <img class="host-twitter-icon" src="{{ site.github.url }}/images/hosts/{{ host.twitter-icon }}"/>
   </div>
   <div class="host-description">
     <h1>{{ host.name }}</h1>
