@@ -48,9 +48,16 @@
   }
 
   &-twitter-follow-button {
-    color: #dddddd;
-    font-size: .12rem;
-    text-decoration: none;
+    position: relative;
+    height: 20px;
+    box-sizing: border-box;
+    padding: 0 8px 1px 6px;
+    background-color: #1b95e0;
+    color: #FFFFFF;
+    border-radius: 3px;
+    font-weight: 500;
+    cursor: pointer;
+    border-width: 0;
   }
 }
 
