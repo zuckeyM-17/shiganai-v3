@@ -1,42 +1,54 @@
-const tw_account = document.getElementsByClassName('form-tw-account-input');
+(function() {
+  document.querySelectorAll('.form-submit')[0].addEventListener('click', function() {
+    var date = new Date();
+    var twitterAccount = document.querySelector('.form-tw-account-input').value;
+    var content = document.querySelector('.form-feedback-text').value;
 
-console.log(tw_account[0].value);
-[].forEach.call(document.getElementsByClassName('form-submit'), button => {
-  console.log("hgohgoe");
-  button.addEventListener('click', () => {
-    console.log('hoge');
     axios.post(
       'https://hooks.slack.com/services/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',
-        JSON.stringify({ attachments: [ { text: makeSlackText() } ] })
-    ).then(res => res.status)
-    .catch(err => {
+        JSON.stringify({ attachments: [ { text: makeSlackText(date, twitterAccount, content) } ] })
+    ).then(res => {
+      clearTextBox();
+      displaySuccessMessage();
+    }).catch(err => {
       console.log(JSON.stringify(err));
     });
   });
-});
 
+  function makeSlackText(date, twitterAccount, content) {
+    var result = '';
+    result += 'id: ' + Number(new Date()) + '      ';
+    result += 'send_date: ';
+    result += date.getFullYear() + '/';
+    result += (date.getMonth() + 1) + '/';
+    result += date.getDate() + ' ';
+    result += date.getHours() + ':' + ('0' + date.getMinutes()).slice(-2) + '\n';
+    result += twitterAccount ? '<https://twitter.com/' + twitterAccount + '|' + twitterAccount + '>' : '名無し';
+    result += 'さんからのメッセージです。\n';
+    result += content;
+    result += '\n' + location.href + '\n';
+    return result;
+  }
 
-const makeSlackText = () => {
-  const date = new Date();
-  const tw_account = document.querySelector('.form-tw-account-input').value;
-  const content = document.querySelector('.form-feedback-text').value;
+  function clearTextBox() {
+    document.querySelector('.form-tw-account-input').value = '';
+    document.querySelector('.form-feedback-text').value = '';
+  }
 
-  console.log(tw_account);
-  console.log(content);
+  function displaySuccessMessage() {
+    displayMessage('送信しました 🙌');
+  }
 
-  let result = '';
-  result += 'id: ' + Number(new Date()) + '      ';
-  result += 'send_date: ';
-  result += date.getFullYear() + '/';
-  result += (date.getMonth() + 1) + '/';
-  result += date.getDate() + ' ';
-  result += date.getHours() + ':' + ('0' + date.getMinutes()).slice(-2) + '\n';
-  result += tw_account ? '<https://twitter.com/' + tw_account + '|' + tw_account + '>' : '名無し';
-  result += 'さんからのメッセージです。\n';
-  result += content;
-  return result;
-};
+  function displayErrorMessage() {
+    displayMessage('送信に失敗しました 😭 リロードして再度試してください');
+  }
 
-const clearFeedback = () => {
+  function displayMessage(message) {
+    var formMessage = document.querySelector('.form-message');
+    var span = document.createElement('span');
+    span.appendChild(document.createTextNode(message))
+    formMessage.appendChild(span);
 
-}
+    setTimeout(function() { formMessage.removeChild(span) }, 3000);
+  }
+})()
