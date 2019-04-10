@@ -7,7 +7,7 @@ layout: episode
 link: sp57a-jakelizzi
 ---
 
-<p><span>jakelizzIさんをゲストにお迎えして、ゲーム、塾講師、就活、SIer、オレオレフレームワーク、などについて話しました。</span></p>
+<p><span>jakelizziさんをゲストにお迎えして、ゲーム、塾講師、就活、SIer、オレオレフレームワーク、などについて話しました。</span></p>
 <h2>
   <p>【Show Notes】</p>
 </h2>
@@ -22,6 +22,7 @@ link: sp57a-jakelizzi
   <li><a href="https://ja.wikipedia.org/wiki/Java#J2SE_1.3_(2000%E5%B9%B45%E6%9C%888%E6%97%A5)" target="_blank">J2SE 1.3 - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/Apache_Struts" target="_blank">Apache Struts - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/Apache_Subversion" target="_blank">Apache Subversion - Wikipedia</a></li>
+  <li><a href="https://aquablendserver.work/" target="_blank">Aqua Blend Server</a></li>
 </ul>
 <p><span>
   配信情報はtwitter ID @shiganaiRadio で確認することができます。
@@ -39,7 +40,7 @@ link: sp57a-jakelizzi
   <p>【ゲスト】</p>
 </h2>
 <ul>
-  <li>jakelizzI<a href="https://twitter.com/jakelizzI" target="_blank">@jakelizzI</a></li>
+  <li>jakelizzi<a href="https://twitter.com/jakelizzI" target="_blank">@jakelizzI</a></li>
 </ul>
 <h2>
   <p>【機材】</p>

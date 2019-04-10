@@ -19,6 +19,7 @@ link: sp57b-jakelizzi
   <li><a href="https://anchor.fm/em-fm/episodes/as8----edvakf-e3cg50" target="_blank">as8. 寄生獣からわかる組織マネージメント ゲスト: 高山温(@edvakf)さん by EM . FM #EMFM • A podcast on Anchor</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/Cygwin" target="_blank">Cygwin - Wikipedia</a></li>
   <li><a href="https://alpha.kiitok.com/" target="_blank">kiitok (キイトク)</a></li>
+  <li><a href="https://aquablendserver.work/" target="_blank">Aqua Blend Server</a></li>
 </ul>
 <p><span>
   配信情報はtwitter ID @shiganaiRadio で確認することができます。
