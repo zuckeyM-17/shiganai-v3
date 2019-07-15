@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: iwashiさんをゲストにお迎えして、Fukabori.fm、NTTコミュニケーションズ、大企業の変え方、もしSIerに戻ったら何をするか、などについて話しました。
-title: ''
+title: 'sp.67【ゲスト: iwashi86】Fukabori.fmのパーソナリティが語るエンプラIT業界の課題と大企業に楽しく変化を起こす方法'
 layout: episode
 link: sp67-iwashi86
 ---
