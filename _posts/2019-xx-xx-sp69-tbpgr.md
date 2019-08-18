@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: てぃーびーさんをゲストにお迎えして、Twitter転職、求職エントリー、異職種転職、株式会社スタディスト、転職透明化らぼ、などについて話しました。
-title: ''
+title: 'sp.69【ゲスト: tbpgr】楽しい求職ブログエントリーと、エンジニアから人事への中年異職種転職'
 layout: episode
 link: sp69-tbpgr
 ---
