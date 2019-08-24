@@ -5,4 +5,5 @@ img: grem_ito.jpg
 episodes:
   - sp29a-grem_ito
   - sp29b-grem_ito
+  - sp68-monorazi
 ---
