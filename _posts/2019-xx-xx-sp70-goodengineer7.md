@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: S(エス)さんをゲストにお迎えして、ソフトハウス、営業職、フリーランス、Web系への転向、などについて話しました。
-title: ''
+title: 'sp.70【ゲスト: goodengineer7】営業職や社内SEを経て名古屋で楽しいフルリモートのフリーランスWebエンジニアになるまで'
 layout: episode
 link: sp70-goodengineer7
 ---
