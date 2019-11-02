@@ -1,0 +1,51 @@
+---
+audio_file_path: 
+date: 
+description: Tomokiさんをゲストにお迎えして、Scala、プログラミングスクール、転職、スクラム、読書、社会人向け大学、などについて話しました。
+title: '年間100冊の本を読むエンジニアがかつてRubyに挫折しScalaを選んだ楽しい理由'
+layout: episode
+link: sp74-tofu511
+---
+
+<p><span>Tomokiさんをゲストにお迎えして、Scala、プログラミングスクール、SIerからの転職、スクラム、読書、社会人向け大学、などについて話しました。</span></p>
+<h2>
+  <p>【Show Notes】</p>
+</h2>
+<ul>
+  <li><a href="https://www.bizreach.co.jp/" target="_blank">株式会社ビズリーチ</a></li>
+  <li><a href="https://www.seasar.org/" target="_blank">Seasar</a></li>
+  <li><a href="https://twitter.com/kaepon1219?lang=ja" target="_blank">@kaepon1219</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/Scala" target="_blank">Scala - Wikipedia</a></li>
+  <li><a href="https://ktor.io/" target="_blank">Ktor</a></li>
+  <li><a href="http://practical-scheme.net/trans/pypar-j.html" target="_blank">The Python Paradox</a></li>
+  <li><a href="https://jp.stanby.com/" target="_blank">求人検索エンジン「スタンバイ」</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4623056481" target="_blank">よくわかる組織論 | Amazon</a></li>
+  <li><a href="https://shiganai.org/ep/sp20a-yutamakotaro" target="_blank">sp.20a【ゲスト: YutamaKotaro】楽しい生態学とSIerフロントエンドエンジニアとWebベンチャーへの転職</a></li>
+  <li><a href="https://booklog.jp/users/tofu511" target="_blank">tofu511の本棚 (tofu511) - ブクログ</a></li>
+  <li><a href="https://tsushin.do-johodai.ac.jp/" target="_blank">北海道情報大学 通信教育部</a></li>
+  <li><a href="https://www.bizreach.co.jp/recruit/" target="_blank">採用情報｜株式会社ビズリーチ</a></li>
+</ul>
+<p><span>
+  配信情報はtwitter ID @shiganaiRadio で確認することができます。
+  フィードバックは(#しがないラジオ)でつぶやいてください！
+  感想、話して欲しい話題、改善して欲しいことなどつぶやいてもらえると、今後のポッドキャストをより良いものにしていけるので、ぜひたくさんのフィードバックをお待ちしています。
+</span></p>
+<h2>
+  <p>【パーソナリティ】</p>
+</h2>
+<ul>
+  <li>gami<a href="https://twitter.com/jumpei_ikegami" target="_blank">@jumpei_ikegami</a></li>
+  <li>zuckey<a href="https://twitter.com/zuckey_17" target="_blank">@zuckey_17</a></li>
+</ul>
+<h2>
+  <p>【ゲスト】</p>
+</h2>
+<ul>
+  <li>Tomoki<a href="https://twitter.com/tofu511" target="_blank">@tofu511</a></li>
+</ul>
+<h2>
+  <p>【機材】</p>
+</h2>
+<ul>
+  <li><a href="http://amzn.to/2tlkud3" target="_blank">Blue Micro Yeti USB 2.0マイク 15374</a></li>
+</ul>
