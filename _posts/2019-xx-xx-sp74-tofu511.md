@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: Tomokiさんをゲストにお迎えして、Scala、プログラミングスクール、転職、スクラム、読書、社会人向け大学、などについて話しました。
-title: '年間100冊の本を読むエンジニアがかつてRubyに挫折しScalaを選んだ楽しい理由'
+title: '年間100冊の本を読むエンジニアが転職前にScalaを学び始めた楽しい理由'
 layout: episode
 link: sp74-tofu511
 ---
