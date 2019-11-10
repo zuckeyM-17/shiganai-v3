@@ -1,0 +1,50 @@
+---
+audio_file_path: 
+date: 
+description: 瀧さんをゲストにお迎えして、富士通、2回の転職、電力業界、会社辞めるの2回やめた話、アトピー、などについて話しました。
+title: '楽しい電力業界の裏話とWeb系ベンチャーでも業務知識が大切な理由'
+layout: episode
+link: sp75-yuyasat
+---
+
+<p><span>瀧さんをゲストにお迎えして、富士通、2回の転職、電力業界、会社辞めるの2回やめた話、アトピー、などについて話しました。</span></p>
+<h2>
+  <p>【Show Notes】</p>
+</h2>
+<ul>
+  <li><a href="https://www.fujitsu.com/jp/services/business/it-consulting/itil/introduction/standard/" target="_blank">SDEM - 富士通</a></li>
+  <li><a href="https://beagleboard.org/black" target="_blank">BeagleBone Black</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/OSGi" target="_blank">OSGi - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC" target="_blank">スマートメーター - Wikipedia</a></li>
+  <li><a href="https://pixta.co.jp/" target="_blank">ピクスタ株式会社</a></li>
+  <li><a href="https://twitter.com/t_wada" target="_blank">@t_wadaさん / Twitter</a></li>
+  <li><a href="https://enechange.co.jp/" target="_blank">ENECHANGE株式会社</a></li>
+  <li><a href="https://enechange.jp/" target="_blank">電気代見直しNo.1サイト「エネチェンジ」</a></li>
+  <li><a href="https://enechange.co.jp/recruit/" target="_blank">採用情報 | ENECHANGE株式会社</a></li>
+  <li><a href="https://www.wantedly.com/companies/enechange/projects" target="_blank">ENECHANGE株式会社 の採用/求人一覧 - Wantedly</a></li>
+  <li><a href="https://www.watashikampo.com/b/atopic/" target="_blank">アトピー性皮膚炎に効果的！？漢方薬でのアプローチとは〜インタビュー〜 | わたし漢方</a></li>
+</ul>
+<p><span>
+  配信情報はtwitter ID @shiganaiRadio で確認することができます。
+  フィードバックは(#しがないラジオ)でつぶやいてください！
+  感想、話して欲しい話題、改善して欲しいことなどつぶやいてもらえると、今後のポッドキャストをより良いものにしていけるので、ぜひたくさんのフィードバックをお待ちしています。
+</span></p>
+<h2>
+  <p>【パーソナリティ】</p>
+</h2>
+<ul>
+  <li>gami<a href="https://twitter.com/jumpei_ikegami" target="_blank">@jumpei_ikegami</a></li>
+  <li>zuckey<a href="https://twitter.com/zuckey_17" target="_blank">@zuckey_17</a></li>
+</ul>
+<h2>
+  <p>【ゲスト】</p>
+</h2>
+<ul>
+  <li>yuyasat<a href="https://twitter.com/yuyasat" target="_blank">@yuyasat</a></li>
+</ul>
+<h2>
+  <p>【機材】</p>
+</h2>
+<ul>
+  <li><a href="http://amzn.to/2tlkud3" target="_blank">Blue Micro Yeti USB 2.0マイク 15374</a></li>
+</ul>
