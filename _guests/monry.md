@@ -5,4 +5,5 @@ img: monry.jpg
 episodes:
   - sp10b-monry
   - sp10a-monry
+  - sp68-monorazi
 ---
