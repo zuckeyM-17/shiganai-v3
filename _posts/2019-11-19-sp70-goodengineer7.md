@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: http://feeds.soundcloud.com/stream/715062691-user-194620696-sp70-goodengineer7.mp3
+date: Mon, 18 Nov 2019 21:10:22 +0000
 description: S(エス)さんをゲストにお迎えして、ソフトハウス、営業職、フリーランス、Web系への転向、などについて話しました。
 title: 'sp.70【ゲスト: goodengineer7】営業職や社内SEを経て名古屋で楽しいフルリモートのフリーランスWebエンジニアになるまで'
 layout: episode
