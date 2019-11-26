@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: http://feeds.soundcloud.com/stream/718996675-user-194620696-sp71-yutarotomoto.mp3
+date: Tue, 26 Nov 2019 23:22:59 +0000
 description: 戸本さんをゲストにお迎えして、ゲームハック、研究、大企業ハック、転職、リンクウェルと医療、などについて話しました。
 title: 'sp.71【ゲスト: 】中部電力から楽しい医療系スタートアップCTOに転職したエンジニアと考える、大企業とイノベーション'
 layout: episode
