@@ -5,4 +5,5 @@ img: higuyume.jpg
 episodes:
   - sp38a-higuyume
   - sp38b-higuyume
+  - sp72-higuyume
 ---
