@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: http://feeds.soundcloud.com/stream/767646136-user-194620696-sp76-wasi_wasimaru.mp3
+date: Thu, 27 Feb 2020 21:50:10 +0000
 description: つのさんをゲストにお迎えして、教育学部、アーキテクト、SIerと事業会社、しがないラジオ、などについて話しました。
 title: 'sp.76【ゲスト: wasi_wasimaru】楽しいシステムアーキテクトとしてのキャリアと、SIerと事業会社の隔たりを埋める方法'
 layout: episode
