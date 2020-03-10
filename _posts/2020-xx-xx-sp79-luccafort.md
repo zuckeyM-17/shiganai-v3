@@ -26,6 +26,7 @@ link: sp79-luccafort
   <li><a href="https://scrapbox.io/product" target="_blank">Scrapbox</a></li>
   <li><a href="https://www.amazon.co.jp/dp/B00JFLJ13W" target="_blank">強いチームはオフィスを捨てる | Amazon</a></li>
   <li><a href="https://techbookfest.org/event/tbf08/circle/5759802252722176" target="_blank">技術書典8: まねふぉ執筆部 詳細</a></li>
+  <li><a href="https://techbookfest.org/product/5719802073055232" target="_blank">Money Forward Techbook #2：まねふぉ執筆部</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%98%E3%82%A4%E3%83%93%E3%82%A2%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA" target="_blank">ビヘイビア駆動開発 - Wikipedia</a></li>
   <li><a href="https://github.com/lostisland/faraday" target="_blank">lostisland/faraday: Simple, but flexible HTTP client library, with support for multiple backends.</a></li>
   <li><a href="https://www.wantedly.com/companies/moneyforward/post_articles/161699" target="_blank">マネーフォワード京都開発拠点はコミュニティ活動も応援しています | MoneyForward's ROOM</a></li>
