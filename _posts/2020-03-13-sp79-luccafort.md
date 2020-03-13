@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: http://feeds.soundcloud.com/stream/775237912-user-194620696-sp79-luccafort.mp3
+date: Fri, 13 Mar 2020 00:21:27 +0000
 description: luccafortさんをゲストにお迎えして、転職、会計、京都の技術コミュニティ、リモートワーク、技術書典、などについて話しました。
 title: 'sp.79【ゲスト: luccafort】楽しい京都の技術コミュニティ事情とリモートワークを支える技術'
 layout: episode
