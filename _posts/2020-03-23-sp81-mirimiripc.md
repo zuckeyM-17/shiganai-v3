@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: http://feeds.soundcloud.com/stream/781030231-user-194620696-sp81-mirimiripc.mp3
+date: Sun, 22 Mar 2020 18:20:54 +0000
 description: miriwoさんをゲストにお迎えして、無機化学、車載機器テスター、キャリア系勉強会、Qiita毎日投稿、転職、などについて話しました。
 title: 'sp.81【ゲスト: mirimiripc】車載機器手動テストのお仕事裏話と、300記事を超える楽しいQiita毎日投稿が転職に役立った話'
 layout: episode
