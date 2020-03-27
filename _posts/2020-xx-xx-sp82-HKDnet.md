@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: はくどーさんをゲストにお迎えして、転職と英語、Change data capture、西日暮里.rb、漫画、などについて話しました。
-title: 'sp.82【ゲスト: HKDnet】'
+title: 'sp.82【ゲスト: HKDnet】楽しい外資企業への転職と、前職で書いたプログラムを思い返して心配になる話'
 layout: episode
 link: sp82-HKDnet
 ---
