@@ -1,5 +1,5 @@
 ---
-audio_file_path: http://feeds.soundcloud.com/stream/804865930-user-194620696-sp83-imunew.mp3
+audio_file_path: http://feeds.soundcloud.com/stream/816602554-user-194620696-sp84-hiroki_daichi.mp3
 date: Sat, 09 May 2020 00:06:19 +0000
 description: 広木さんをゲストにお迎えして、ミクシィ、たんぽぽグループ、技術教育、火消し、理不尽とは、CTO協会、DX、「エンジニアリング」の広さ、などについて話しました。
 title: 'sp.84【ゲスト: hiroki_daichi】プロジェクトから対立を減らす方法と、楽しい『エンジニアリング組織論への招待』を書いた理由'
