@@ -1,8 +1,8 @@
 ---
 audio_file_path: 
 date: 
-description: 
-title: 'sp.86【ゲスト: Chan_moro】'
+description: ちゃんもろさんをゲストにお迎えして、応用数学、SIerでのインド研修、AIベンチャー転職、トップダウンとボトムアップ、などについて話しました。
+title: 'sp.86【ゲスト: Chan_moro】楽しいLAPRASのクローラーエンジニアが語る、障害に愛されたSIer時代の経験が今に活きている理由'
 layout: episode
 link: sp86-Chan_moro
 ---
