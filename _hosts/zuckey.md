@@ -1,7 +1,7 @@
 ---
 name: zuckey
-company: Tsukuruba inc,
-company-link: https://tsukuruba.com/
+company: Studist Corporation
+company-link: https://studist.jp/
 graduated-from: Kyoto University
 twitter-icon: zuckey.jpg
 twitter-name: zuckey_17
