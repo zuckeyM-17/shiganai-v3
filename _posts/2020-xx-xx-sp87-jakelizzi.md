@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: https://feeds.soundcloud.com/stream/882431710-user-194620696-sp87-jakelizzi.mp3
+date: Wed, 26 Aug 2020 16:23:28 +0000
 description: jakelizziさんをゲストにお迎えして、フレクトへの転職、クラウドインテグレーション、SaaS、Salesforce、急性胃腸炎、傷病手当、などについて話しました。
 title: 'sp.87【ゲスト: jakelizzi】楽しいSalesforce企業でのSaaS開発と、急性胃腸炎で死にかけて傷病手当をもらった話'
 layout: episode
