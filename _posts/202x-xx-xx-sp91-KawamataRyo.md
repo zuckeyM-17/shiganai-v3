@@ -2,7 +2,7 @@
 audio_file_path: 
 date: 
 description: Kawamata Ryoさんをゲストにお迎えして、ボクシング部、消防士、独学Webアプリ開発、エンジニア転職、挫折と復活、などについて話しました。
-title: "sp.91【ゲスト: KawamataRyo】"
+title: "sp.91【ゲスト: KawamataRyo】楽しい元消防士がエンジニア転職を決意した理由、そして挫折と復活"
 layout: episode
 link: sp91-KawamataRyo
 ---
