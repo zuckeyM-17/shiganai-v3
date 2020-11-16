@@ -1,6 +1,6 @@
 ---
-audio_file_path: 
-date: 
+audio_file_path: https://feeds.soundcloud.com/stream/930356824-user-194620696-sp90-kunihirotanaka.mp3
+date: Mon, 16 Nov 2020 17:44:55 +0000
 description: さくらインターネット田中社長をゲストにお迎えして、沖縄移住、業界団体、内製化、余白の経営、などについて話しました。
 title: "sp.90【ゲスト: kunihirotanaka】さくらインターネット田中社長と考える、楽しい大企業の変え方と余白のある働き方"
 layout: episode
