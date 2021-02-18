@@ -1,0 +1,48 @@
+---
+audio_file_path: 
+date: 
+description: ぼうさんをゲストにお迎えして、IBM、SEとセールスエンジニアの違い、LT武者修行、CROSS PartyとClubhouse、外資系文化、などについて話しました。
+title: "sp.93【ゲスト: MC_SEC_KB】楽しいセールスエンジニアの魅力と、仕事に活きるLT武者修行"
+layout: episode
+link: sp93-MC_SEC_KB
+---
+
+<p><span>ぼうさんをゲストにお迎えして、IBM、SEとセールスエンジニアの違い、LT武者修行、CROSS PartyとClubhouse、外資系文化、などについて話しました。</span></p>
+<h2>
+  <p>【Show Notes】</p>
+</h2>
+<ul>
+  <li><a href="https://www.ibm.com/jp-ja" target="_blank">IBM</a></li>
+  <li><a href="https://www.cross-party.com/" target="_blank">CROSS2020</a></li>
+  <li><a href="https://speakerdeck.com/shumpei3/advancedpersistentthreat-in-doraemonmovie-nobita-s-treasureisland" target="_blank">「ドラえもん のび太の宝島」で読み解く、標的型攻撃 - Speaker Deck</a></li>
+  <li><a href="https://speakerdeck.com/shumpei3/gu-dian-dedu-mijie-kuekusupuroito-shi-sobabian" target="_blank">古典で読み解くエクスプロイト 時そば編 - Speaker Deck</a></li>
+  <li><a href="https://apps.apple.com/jp/app/clubhouse-drop-in-audio-chat/id1503133294" target="_blank">Clubhouse</a></li>
+  <li><a href="https://stand.fm/" target="_blank">stand.fm</a></li>
+  <li><a href="https://cross-party.connpass.com/" target="_blank">CROSS - connpass</a></li>
+  <li><a href="https://togetter.com/li/1412890" target="_blank">CROSS Party 2019 「緊急企画！漫画村再検証！」 #cross_party #cross2019 - Togetter</a></li>
+  <li><a href="https://www.cross-party.com/sessions/-e1NQGui" target="_blank">組織の情報発信どうしてる？（SNS編）  | CROSS2020</a></li>
+  <li><a href="https://www.cross-party.com/sessions/58Hvs6ep" target="_blank">データ整備人が語る！DXにも不可欠なデータ整備の姿  | CROSS2020</a></li>
+  <li><a href="https://shiganai.connpass.com/event/155245/" target="_blank">#しがないラジオmeetup 4 - connpass</a></li>
+  <li><a href="https://analytics-and-intelligence.connpass.com/event/153899/" target="_blank">データアーキテクト（データ整備人）を”前向きに”考える会 - connpass</a></li>
+  <li><a href="https://www.ibm.com/jp-ja/employment/" target="_blank">IBM 採用情報</a></li>
+  <li><a href="https://ibm-developer.connpass.com/" target="_blank">IBM Tech/Developer Dojo - connpass</a></li>
+  <li><a href="https://qiita.com/Asuka_Saito/items/df3467dc4c9919772c63" target="_blank">IBM Cloud Pak for Data as a Serviceを始めてみる（1.プロビジョニング編） - Qiita</a></li>
+</ul>
+<p><span>
+  配信情報はtwitter ID @shiganaiRadio で確認することができます。
+  フィードバックは(#しがないラジオ)でつぶやいてください！
+  感想、話して欲しい話題、改善して欲しいことなどつぶやいてもらえると、今後のポッドキャストをより良いものにしていけるので、ぜひたくさんのフィードバックをお待ちしています。
+</span></p>
+<h2>
+  <p>【パーソナリティ】</p>
+</h2>
+<ul>
+  <li>gami<a href="https://twitter.com/jumpei_ikegami" target="_blank">@jumpei_ikegami</a></li>
+  <li>zuckey<a href="https://twitter.com/zuckey_17" target="_blank">@zuckey_17</a></li>
+</ul>
+<h2>
+  <p>【ゲスト】</p>
+</h2>
+<ul>
+  <li>ぼうさん<a href="https://twitter.com/MC_SEC_KB" target="_blank">@MC_SEC_KB</a></li>
+</ul>
